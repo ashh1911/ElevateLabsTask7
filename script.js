@@ -27,4 +27,4 @@ function fetchUsers() {
     });
 }
 
-window.onload = fetchUsers;
+window.onload = fetchUsers; 
