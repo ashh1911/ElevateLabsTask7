@@ -46,6 +46,6 @@ Disconnect your internet and click the Reload Data button to see error handling 
 
 ---
 
-## 🌐 API Source
+## 🌐 API Source 
 
 JSONPlaceholder - /users endpoint
